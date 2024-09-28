@@ -1,10 +1,8 @@
 # myjlab_summer_hackathon_teamD
 
-## test
+## 真夏のランゲーム
 
-test 
-test
-テスト
+* このゲームは降ってくる唐辛子や太陽を避けながら、水分と塩分を補給して走り続けるゲームです
 
-テスト
-テスト
+https://github.com/user-attachments/assets/e6040458-0f31-42dd-84cb-b9a8a519857a
+
